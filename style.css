@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#countdown {
+    font-size: 3em;
+}
+#content {
+    display: none;
+}
